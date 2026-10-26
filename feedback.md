@@ -1,3 +1,3 @@
-Feedback - Aula 02 e Aula 03
+# Feedback - Aula 02
 
-Samuel, na aula 2 e na aula 3 você não entregou nada, ficou só no commit inicial do template. Nota 0,00 nas duas.
+Samuel, até agora o seu servidor.js está intocado, igual ao que foi entregue no início. Falta a aula 2 inteira. Vou lançar as notas sexta-feira, esse é o prazo que você tem pra não ficar zerado nessa etapa.
